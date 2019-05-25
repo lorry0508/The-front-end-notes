@@ -338,7 +338,7 @@ touch 对象代表一个触摸点。触摸点可能是一根手指，也可能�
 
 常见的触屏事件如下：
 
-![图片1](images\图片1.png)
+![图片1-1.png](images\图片1-1.png)
 
 ### 1.3.2. 触摸事件对象（TouchEvent）
 
@@ -348,7 +348,7 @@ touchstart、touchmove、touchend 三个事件都会各自有事件对象。
 
 触摸事件对象重点我们看三个常见对象列表：
 
-![图片2](images\图片2.png)
+![图片2-1](images\图片2-1.png)
 
 > `因为平时我们都是给元素注册触摸事件，所以重点记住 targetTocuhes`
 

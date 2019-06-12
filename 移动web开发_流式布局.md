@@ -128,7 +128,7 @@ contain把图像图像扩展至最大尺寸，以使其宽度和高度完全适�
 
 京东移动端：
 
-<img src="./images/6.jpg">
+<img src="./images/jingdongyidongduan.jpg">
 
 2.响应式页面兼容移动端（其次）
 

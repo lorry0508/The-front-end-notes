@@ -51,7 +51,7 @@ rem的优势：父元素文字大小可能不一致， 但是整个页面只有�
 
 ​       将不同的终端设备划分成不同的类型，称为媒体类型
 
-<img src="./images/1.jpg">
+<img src="./images/rem1.jpg">
 
 2. 关键字
 
@@ -67,7 +67,7 @@ rem的优势：父元素文字大小可能不一致， 但是整个页面只有�
 
    注意他们要加小括号包含
 
-   <img src="./images/2.jpg">
+   <img src="./images/rem2.jpg">
 
    ​
 
@@ -75,7 +75,7 @@ rem的优势：父元素文字大小可能不一致， 但是整个页面只有�
 
    注意： 为了防止混乱，媒体查询我们要按照从小到大或者从大到小的顺序来写,但是我们最喜欢的还是从小到大来写，这样代码更简洁
 
-   <img src="./images/3.png">
+   <img src="./images/rem3.png">
 
    ​
 
@@ -141,7 +141,7 @@ Easy LESS 插件用来把less文件编译为css文件
 
 只要保存一下Less文件，会自动生成CSS文件。
 
-<img src="./images/4.png">
+<img src="./images/rem4.png">
 
 Less 嵌套
 
@@ -256,7 +256,7 @@ width: (@width + 5) * 2;
 
 2、搭建文件结构
 
-<img src="./images/5.jpg">
+<img src="./images/rem5.jpg">
 
 3、设置视口标签以及引入初始化样式
 
@@ -305,7 +305,7 @@ VSCode  px 转换rem 插件 cssrem
 
 因为cssrem中css自动转化为rem是参照默认插件的16转换的所以需要自己配置
 
-<img src="./images/6.jpg">
+<img src="./images/rem6.jpg">
 
-<img src="./images/7.jpg">
+<img src="./images/rem7.jpg">
 

@@ -17,7 +17,7 @@
 ### 1.3 建议
 
 +  如果是pc端页面布局，还是采用传统方式
-+ 如果是移动端或者是不考虑兼容的pc则采用flex
++  如果是移动端或者是不考虑兼容的pc则采用flex
 
 ## 2.0 flex布局原理
 
@@ -46,7 +46,7 @@ item），简称"项目"。
 + 默认主轴方向就是 x 轴方向，水平向右
 + 默认侧轴方向就是 y 轴方向，水平向下
 
-<img src="./images/1.jpg">
+<img src="./images/flex.jpg">
 
 + 注意： 主轴和侧轴是会变化的，就看 flex-direction 设置谁为主轴，剩下的就是侧轴。而我们的子元素是跟着主轴来排列的
 
@@ -56,7 +56,7 @@ item），简称"项目"。
 
 ### 3.2 justify-content 设置主轴上的子元素排列方式
 
-<img src="./images/3.jpg">
+<img src="./images/flex1.jpg">
 
 ### 3.3 flex-wrap设置是否换行
 
@@ -76,7 +76,7 @@ item），简称"项目"。
 
 设置子项在侧轴上的排列方式 并且只能用于子项出现 换行 的情况（多行），在单行下是没有效果的。
 
-<img src="./images/4.jpg">
+<img src="./images/flex3.jpg">
 
 
 
@@ -147,7 +147,7 @@ span:nth-child(2) {
 
 2.搭建相关文件夹
 
-<img src="./images/5.jpg">
+<img src="./images/flex4.jpg">
 
 3.设置视口标签以及引入初始化样式
 
@@ -176,7 +176,7 @@ body {
 
 5.模块名字划分
 
-<img src="./images/6.jpg">
+<img src="./images/flex5.jpg">
 
 
 
